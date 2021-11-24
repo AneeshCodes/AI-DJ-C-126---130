@@ -1,0 +1,42 @@
+.header{
+  font-size: 25px !important;
+  width: 100% !important;
+  margin-top: 0; 
+}
+
+.note{
+  color: darkblue;
+  font-size: 20px;
+}
+
+body{
+  background-size: cover;
+}
+
+.div_speed{
+  float: left; 
+}
+
+.div_speedIMG, .div_volumeIMG{
+  width: 200px;
+  border-radius: 50%;
+}
+
+#speed, #volume{
+  font-size: 23px;
+  margin: 15px;
+}
+
+.div_volume{
+  float: right;
+}
+
+button{
+  margin-top: 10px;
+  font-size: 20px !important;
+  width: 100px;
+}
+
+canvas{
+  border: 5px dotted lime;
+}
